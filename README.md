@@ -22,5 +22,8 @@ pnpm start
 pnpm build
 ```
 
+Edit parameters in config.ts
+output file in out/video.mp4.  Modify this in package.json
+
 
 

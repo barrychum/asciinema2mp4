@@ -1,5 +1,5 @@
 {
-  "name": "asciinema-mp4",
+  "name": "asciinema2mp4",
   "version": "1.0.0",
   "description": "Render High Quality Terminal Output Videos",
   "sideEffects": [
