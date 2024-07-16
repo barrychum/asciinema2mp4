@@ -22,8 +22,8 @@ pnpm start
 pnpm build
 ```
 
-Edit parameters in config.ts
-output file in out/video.mp4.  Modify this in package.json
+Edit parameters in config.ts for output resolution, render parameters, input file location.
 
+Edit package.json for th output file location.
 
-
+Edit remote.config.ts for number of CPU core to use.
